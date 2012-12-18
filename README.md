@@ -1,11 +1,27 @@
 ##About
-This repository contains some mavan artifacts not found in other public maven repos
+This repository contains some maven artifacts not found in other public maven repos
 
 ###To use it, include folowing lines in your pom.xml
 
 ```xml
 <repository>
-	<id>sunlaud-repo</id>
-	<url>https://github.com/sunlaud/maven-repo/raw/master</url>
+    <id>sunlaud-repo</id>
+    <name>sunlaud maven repository</name>
+    <url>https://raw.github.com/sunlaud/maven-repo/master</url>
 </repository>
+```
+
+
+###Repository contents:
+
+1. LuaJ - lua programming language implemented in java.
+Found here: http://luaj.org/luaj/README.html.
+Version: v3.0-alpha1
+
+```xml
+<dependency>
+    <groupId>org.luaj</groupId>
+    <artifactId>luaj-jse</artifactId>
+    <version>3.0-alpha1</version>
+</dependency>
 ```
