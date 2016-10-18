@@ -14,7 +14,7 @@ This repository contains some maven artifacts not found in other public maven re
 
 ###Repository contents:
 
-1. LuaJ - lua programming language implemented in java.
+1. <div>LuaJ - lua programming language implemented in java.
 Found here: http://luaj.org/luaj/README.html.
 Version: v3.0-alpha1
 
@@ -25,8 +25,8 @@ Version: v3.0-alpha1
     <version>3.0-alpha1</version>
 </dependency>
 ```
-
-2. enterprise-calc - enterprise calculator used as a target for test coverage
+</div>
+2. <div>enterprise-calc - enterprise calculator used as a target for test coverage
 Version: v1.0-SNAPSHOT
 
 ```xml
@@ -36,3 +36,4 @@ Version: v1.0-SNAPSHOT
     <version>1.0-SNAPSHOT</version>
 </dependency>
 ```
+</div>
