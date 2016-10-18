@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.epam.rd</groupId>
+  <artifactId>enterprise-calc</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161018150114</lastUpdated>
+  </versioning>
+</metadata>

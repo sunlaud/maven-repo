@@ -25,3 +25,14 @@ Version: v3.0-alpha1
     <version>3.0-alpha1</version>
 </dependency>
 ```
+
+2. enterprise-calc - enterprise calculator used as a target for test coverage
+Version: v1.0-SNAPSHOT
+
+```xml
+<dependency>
+    <groupId>com.epam.rd</groupId>
+    <artifactId>enterprise-calc</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</dependency>
+```
